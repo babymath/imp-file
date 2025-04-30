@@ -1,1 +1,242 @@
-{"Subject":[{"Name":"Computer","Total":4},{"Name":"English","Total":""},{"Name":"Hindi","Total":3},{"Name":"Math","Total":25},{"Name":"Reasoning ","Total":6},{"Name":"Science","Total":6}],"Computer":[{"Id":250313,"File":"15DlFNJK70SM8nM4X8jZeRFClpnF-a1AV","Topic":"Full Form"},{"Id":250312,"File":"15HsVzDVFQVeMM5ZjAtCjEpkLnoyx6Ubj","Topic":"Full Form"},{"Id":250314,"File":"15Ciljx6TNHrGxgzG4NGKA3h6Iytxjhws","Topic":"Hardware and Software"},{"Id":250315,"File":"15BbXmEZncWYwYHMsRfzV-ggiP5SVSN8X","Topic":"Hardware and Software"}],"English":[],"Hindi":[{"Id":250326,"File":"15A44Xl0jN8IL-s8KrCPxPS72SIKO0-LT","Topic":"कारक"},{"Id":250316,"File":"1569WQ75C0Tj5T2JjWOMuH4r6ItoQusI7","Topic":"समास"},{"Id":250317,"File":"154Le_gFfYBBEuRYKIPNomIwruHOjAQbZ","Topic":"समास"}],"Math":[{"Id":250318,"File":"17ZLnJ6dDaTm7zQYA0F2M6O-826E2RIx1","Topic":"Time Speed and Distance"},{"Id":250319,"File":"17SPG5KEr1yvXSAutpQEhSjKBn4WEavho","Topic":"Time Speed and Distance"},{"Id":250320,"File":"17R02wEyHzmNN3TC0xbghQC-GIew8m5Xw","Topic":"Time Speed and Distance"},{"Id":250321,"File":"17OJ4b_FFuJoaZk4kLpo4XHbjA1CHqK1u","Topic":"Time Speed and Distance"},{"Id":250322,"File":"17Nai_wYPR_GYPro0-qxhgo5vrkSEpM_w","Topic":"Time Speed and Distance"},{"Id":250323,"File":"17BX-GC_XKENFuWxrAQu7SLEdm9so0DJC","Topic":"Time Speed and Distance"},{"Id":250324,"File":"176cZcxND7EzHmyDl-N41LNq3j8gigkJw","Topic":"Time Speed and Distance"},{"Id":250325,"File":"175FAX1c1MFTnTmVShXd-dCHumNfAkDrL","Topic":"Time Speed and Distance"},{"Id":250327,"File":"152JI-OLuaJykuiyGEr5u0UW-0sXbA8TQ","Topic":"Definition "},{"Id":250328,"File":"151OikYRcKHSifW0ydviQxoEzW6zf62i4","Topic":"Definition "},{"Id":250329,"File":"14zJLFjnqyioQXbKlxMFwf1fdw7skMBeg","Topic":"Definition "},{"Id":250330,"File":"14w6sOGaaOW6Ui4EzT5b9FQR9CPGHO8pN","Topic":"Definition "},{"Id":250333,"File":"14sfseiCd0uScYi2uh0ZrnWgOjshJb4eK","Topic":"Divisibility Rule"},{"Id":250334,"File":"14qtLQ8iek4Y1anz9Z9S0IR8_xe_xQbnI","Topic":"Divisibility Rule"},{"Id":250301,"File":"14lvsTESsIB4F2gVuLvlaDJVSMkvc2_B9","Topic":"LCM and HCF"},{"Id":250302,"File":"14cLqaLFo5S2sX0-feACsrOB6drj9kOGi","Topic":"LCM and HCF"},{"Id":250303,"File":"14cLqaLFo5S2sX0-feACsrOB6drj9kOGi","Topic":"LCM and HCF"},{"Id":250304,"File":"16vGkLJWCXrtphAbHHbi4nq9H-DSWX7Qq","Topic":"LCM and HCF"},{"Id":250305,"File":"16seMzQZOEzqaOQSmyG3aWfGIy_3JMb_s","Topic":"LCM and HCF"},{"Id":250306,"File":"16mLlWUC6y_N-82_lCPffjN2J-Juj5VIc","Topic":"LCM and HCF"},{"Id":250331,"File":"16laS0oN_cyfQZQ6ZhG7oNL90vCm--dLx","Topic":"Theorem "},{"Id":250332,"File":"16_R3GrNJBWBUzyc3RVIJuvPC2X5PvjA0","Topic":"Theorem "},{"Id":250307,"File":"16TW51m12Dquh2NWjeYokF3iUfxJsSmTR","Topic":"Time and Work"},{"Id":250308,"File":"16MeTO4-ak0OsaDVZcGJzbgnnfWEAyspO","Topic":"Time and Work"},{"Id":250309,"File":"16K_BJyJqI_DJSKpf0Dt_YxIF1JLr_pta","Topic":"Time and Work"}],"Reasoning":[{"Id":250401,"File":"18Fqn68CUErVVsiSJjarBi5bSS99LADMY","Topic":"Sitting Arrangement "},{"Id":250402,"File":"18Lfzgnc-5v90-Shapk_G1Oc6KA79LIVZ","Topic":"Sitting Arrangement "},{"Id":250403,"File":"18NV8AGkYvhQ29S2JAqI-dbk8CmgR5AOt","Topic":"Sitting Arrangement "},{"Id":250404,"File":"18Ns7evZtJlvDJRaC7isI2pee77mJN35p","Topic":"Sitting Arrangement "},{"Id":250310,"File":"16G5_hwrQ-gQfcgMy3ig7bw4Oca6px1PR","Topic":"Blood Relation"},{"Id":250311,"File":"16EvyQXkE-VBDwPZLOSRnXamoNgY_VV5T","Topic":"Blood Relation"}],"Science":[{"Id":250335,"File":"16E0Nw92j-87pr23lyPrzQMU-Qsc_sVtu","Topic":"9th Class"},{"Id":250336,"File":"16B-fz3fFB7YEVp0fii1Y75g7fRLVAzvA","Topic":"9th Class"},{"Id":250337,"File":"164_hjb7zEYKNz0YOtgL-0rFaW_Jc5gsF","Topic":"9th Class"},{"Id":250338,"File":"164PtMO34vNQ0sR08S6ZaixmAIsT70I9C","Topic":"9th Class"},{"Id":250339,"File":"15zWRjyjB-qPZkr6f0aeGZcks1YZUEJAE","Topic":"9th Class"},{"Id":250340,"File":"15u3zdLciVO0M8HnNUQ3BJHXa9Ks0ue_o","Topic":"9th Class"}]}
+[
+  {
+    "id": "250313",
+    "file": "15DlFNJK70SM8nM4X8jZeRFClpnF-a1AV",
+    "topic": "Full Form",
+    "subject": "Computer"
+  },
+  {
+    "id": "250312",
+    "file": "15HsVzDVFQVeMM5ZjAtCjEpkLnoyx6Ubj",
+    "topic": "Full Form",
+    "subject": "Computer"
+  },
+  {
+    "id": "250314",
+    "file": "15Ciljx6TNHrGxgzG4NGKA3h6Iytxjhws",
+    "topic": "Hardware and Software",
+    "subject": "Computer"
+  },
+  {
+    "id": "250315",
+    "file": "15BbXmEZncWYwYHMsRfzV-ggiP5SVSN8X",
+    "topic": "Hardware and Software",
+    "subject": "Computer"
+  },
+  {
+    "id": "250326",
+    "file": "15A44Xl0jN8IL-s8KrCPxPS72SIKO0-LT",
+    "topic": "कारक",
+    "subject": "Hindi"
+  },
+  {
+    "id": "250316",
+    "file": "1569WQ75C0Tj5T2JjWOMuH4r6ItoQusI7",
+    "topic": "समास",
+    "subject": "Hindi"
+  },
+  {
+    "id": "250317",
+    "file": "154Le_gFfYBBEuRYKIPNomIwruHOjAQbZ",
+    "topic": "समास",
+    "subject": "Hindi"
+  },
+  {
+    "id": "250318",
+    "file": "17ZLnJ6dDaTm7zQYA0F2M6O-826E2RIx1",
+    "topic": "Time Speed and Distance",
+    "subject": "Math"
+  },
+  {
+    "id": "250319",
+    "file": "17SPG5KEr1yvXSAutpQEhSjKBn4WEavho",
+    "topic": "Time Speed and Distance",
+    "subject": "Math"
+  },
+  {
+    "id": "250320",
+    "file": "17R02wEyHzmNN3TC0xbghQC-GIew8m5Xw",
+    "topic": "Time Speed and Distance",
+    "subject": "Math"
+  },
+  {
+    "id": "250321",
+    "file": "17OJ4b_FFuJoaZk4kLpo4XHbjA1CHqK1u",
+    "topic": "Time Speed and Distance",
+    "subject": "Math"
+  },
+  {
+    "id": "250322",
+    "file": "17Nai_wYPR_GYPro0-qxhgo5vrkSEpM_w",
+    "topic": "Time Speed and Distance",
+    "subject": "Math"
+  },
+  {
+    "id": "250323",
+    "file": "17BX-GC_XKENFuWxrAQu7SLEdm9so0DJC",
+    "topic": "Time Speed and Distance",
+    "subject": "Math"
+  },
+  {
+    "id": "250324",
+    "file": "176cZcxND7EzHmyDl-N41LNq3j8gigkJw",
+    "topic": "Time Speed and Distance",
+    "subject": "Math"
+  },
+  {
+    "id": "250325",
+    "file": "175FAX1c1MFTnTmVShXd-dCHumNfAkDrL",
+    "topic": "Time Speed and Distance",
+    "subject": "Math"
+  },
+  {
+    "id": "250327",
+    "file": "152JI-OLuaJykuiyGEr5u0UW-0sXbA8TQ",
+    "topic": "Definition ",
+    "subject": "Math"
+  },
+  {
+    "id": "250328",
+    "file": "151OikYRcKHSifW0ydviQxoEzW6zf62i4",
+    "topic": "Definition ",
+    "subject": "Math"
+  },
+  {
+    "id": "250329",
+    "file": "14zJLFjnqyioQXbKlxMFwf1fdw7skMBeg",
+    "topic": "Definition ",
+    "subject": "Math"
+  },
+  {
+    "id": "250330",
+    "file": "14w6sOGaaOW6Ui4EzT5b9FQR9CPGHO8pN",
+    "topic": "Definition ",
+    "subject": "Math"
+  },
+  {
+    "id": "250333",
+    "file": "14sfseiCd0uScYi2uh0ZrnWgOjshJb4eK",
+    "topic": "Divisibility Rule",
+    "subject": "Math"
+  },
+  {
+    "id": "250334",
+    "file": "14qtLQ8iek4Y1anz9Z9S0IR8_xe_xQbnI",
+    "topic": "Divisibility Rule",
+    "subject": "Math"
+  },
+  {
+    "id": "250301",
+    "file": "14lvsTESsIB4F2gVuLvlaDJVSMkvc2_B9",
+    "topic": "LCM and HCF",
+    "subject": "Math"
+  },
+  {
+    "id": "250302",
+    "file": "14cLqaLFo5S2sX0-feACsrOB6drj9kOGi",
+    "topic": "LCM and HCF",
+    "subject": "Math"
+  },
+  {
+    "id": "250303",
+    "file": "14cLqaLFo5S2sX0-feACsrOB6drj9kOGi",
+    "topic": "LCM and HCF",
+    "subject": "Math"
+  },
+  {
+    "id": "250304",
+    "file": "16vGkLJWCXrtphAbHHbi4nq9H-DSWX7Qq",
+    "topic": "LCM and HCF",
+    "subject": "Math"
+  },
+  {
+    "id": "250305",
+    "file": "16seMzQZOEzqaOQSmyG3aWfGIy_3JMb_s",
+    "topic": "LCM and HCF",
+    "subject": "Math"
+  },
+  {
+    "id": "250306",
+    "file": "16mLlWUC6y_N-82_lCPffjN2J-Juj5VIc",
+    "topic": "LCM and HCF",
+    "subject": "Math"
+  },
+  {
+    "id": "250331",
+    "file": "16laS0oN_cyfQZQ6ZhG7oNL90vCm--dLx",
+    "topic": "Theorem ",
+    "subject": "Math"
+  },
+  {
+    "id": "250332",
+    "file": "16_R3GrNJBWBUzyc3RVIJuvPC2X5PvjA0",
+    "topic": "Theorem ",
+    "subject": "Math"
+  },
+  {
+    "id": "250307",
+    "file": "16TW51m12Dquh2NWjeYokF3iUfxJsSmTR",
+    "topic": "Time and Work",
+    "subject": "Math"
+  },
+  {
+    "id": "250308",
+    "file": "16MeTO4-ak0OsaDVZcGJzbgnnfWEAyspO",
+    "topic": "Time and Work",
+    "subject": "Math"
+  },
+  {
+    "id": "250309",
+    "file": "16K_BJyJqI_DJSKpf0Dt_YxIF1JLr_pta",
+    "topic": "Time and Work",
+    "subject": "Math"
+  },
+  {
+    "id": "250335",
+    "file": "16E0Nw92j-87pr23lyPrzQMU-Qsc_sVtu",
+    "topic": "9th Class",
+    "subject": "Science"
+  },
+  {
+    "id": "250336",
+    "file": "16B-fz3fFB7YEVp0fii1Y75g7fRLVAzvA",
+    "topic": "9th Class",
+    "subject": "Science"
+  },
+  {
+    "id": "250337",
+    "file": "164_hjb7zEYKNz0YOtgL-0rFaW_Jc5gsF",
+    "topic": "9th Class",
+    "subject": "Science"
+  },
+  {
+    "id": "250338",
+    "file": "164PtMO34vNQ0sR08S6ZaixmAIsT70I9C",
+    "topic": "9th Class",
+    "subject": "Science"
+  },
+  {
+    "id": "250339",
+    "file": "15zWRjyjB-qPZkr6f0aeGZcks1YZUEJAE",
+    "topic": "9th Class",
+    "subject": "Science"
+  },
+  {
+    "id": "250340",
+    "file": "15u3zdLciVO0M8HnNUQ3BJHXa9Ks0ue_o",
+    "topic": "9th Class",
+    "subject": "Science"
+  },
+  {
+    "id": "250310",
+    "file": "16G5_hwrQ-gQfcgMy3ig7bw4Oca6px1PR",
+    "topic": "Blood Relation",
+    "subject": "Reasoning"
+  },
+  {
+    "id": "250311",
+    "file": "16EvyQXkE-VBDwPZLOSRnXamoNgY_VV5T",
+    "topic": "Blood Relation",
+    "subject": "Reasoning"
+  }
+]
