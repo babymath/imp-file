@@ -1,11 +1,11 @@
-// appPromo.js
+// babymath.js
 
 // 1. Set Favicon
 (function setFavicon() {
   const link = document.createElement('link');
   link.rel = 'icon';
-  link.type = 'image/png';
-  link.href = 'https://example.com/favicon.png'; // 🔁 Replace with your favicon URL
+  link.type = 'image/x-icon';
+  link.href = 'https://raw.githubusercontent.com/babymath/imp-file/refs/heads/main/babymath-favicon.ico';
   document.head.appendChild(link);
 })();
 
